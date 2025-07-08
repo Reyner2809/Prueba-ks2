@@ -118,7 +118,7 @@ Para dudas o mejoras, contacta al desarrollador principal o abre un issue en el 
 
 ## IMAGES
 
-![Login](assents/login.png) 
-![Registro](assents/registro.png) 
-![Dashboard](assents/dashboard.png) 
-![Lista-vehiculos-admin](assents/lista-admin.png) 
+<img src="assent/login.png" width="100%" />
+<img src="assent/registro.png" width="100%" />
+<img src="assent/dashboard.png" width="100%" />
+<img src="assent/lista-admin.png" width="100%" />
